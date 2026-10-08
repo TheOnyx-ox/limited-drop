@@ -1,0 +1,1 @@
+CREATE DATABASE limited_drop_test;
