@@ -15,6 +15,6 @@ export function describeError(err: unknown): string {
       return 'We could not find that item.';
     case 'NETWORK':
     case 'UNKNOWN':
-      return err.message; // already written for a human
+      return err.message; 
   }
 }
