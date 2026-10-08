@@ -2,7 +2,7 @@
 
 A small shop for a limited product drop. There are only a few units of each item, and lots of people may try to grab the same one at the same moment. The one thing this project has to get right is the stock: it must never go negative, and a unit must never be sold twice.
 
-- Live demo: _add link_
+- Live demo: [limited-drop-six.vercel.app](https://limited-drop-six.vercel.app)
 - Video walkthrough (5 min): _add link_
 
 ## What it does
